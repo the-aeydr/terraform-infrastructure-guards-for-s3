@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: terraform-infrastructure-guards-for-s3
+  description: Using the bucket policy of S3 buckets to prevent accidental deletion
+  tags:
+    - terraform
+    - terraform
+  annotations:
+    displayName: Infrastructure guards to prevent accidental destruction
+    github.com/project-slug: the-aeydr/terraform-infrastructure-guards-for-s3
+spec:
+  type: documentation
+  lifecycle: experimental
