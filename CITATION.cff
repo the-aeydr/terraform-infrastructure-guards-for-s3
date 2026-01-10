@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you refer to this article, please cite it as below."
+
+version: 1.0.0
+date-released: 2023-07-14
+title: "Infrastructure guards to prevent accidental destruction"
+url: "https://writing.aeydr.dev/notes/terraform-infrastructure-guards-for-s3"
+authors:
+- given-names: "aeydr"
+
+preferred-citation:
+  type: article
+  journal: "The Architectural Decision Record"
+  authors:
+  - given-names: "aeydr"
+
+  title: "Infrastructure guards to prevent accidental destruction"
+  month: 07
+  year: 2023

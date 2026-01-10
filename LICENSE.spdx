@@ -1,0 +1,8 @@
+SPDXVersion: SPDX-2.0
+SPDX-License-Identifier: LicenseRef-LICENSE.md
+Creator: aeydr
+PackageOriginator: aeydr
+PackageLicenseDeclared: LicenseRef-LICENSE.md
+
+PackageName: terraform-infrastructure-guards-for-s3
+PackageHomePage: https://github.com/theaeydr/terraform-infrastructure-guards-for-s3/
